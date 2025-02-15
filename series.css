@@ -109,9 +109,11 @@ h1 span{
     background: black;
     border: black solid 2px;
 }
+#btnD:hover{background-color: rgba(0, 0, 0, 0.89);}
 #btnTrailer{
     border: white solid 2px;
 }
+#btnTrailer:hover{background-color: rgba(246, 246, 246, 0.23);}
 .ladoALado{
     display: flex;
     margin: 0 -3px;
@@ -194,6 +196,9 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.play:hover{
+    background-color: rgba(255, 254, 254, 0.874);
 }
 .play span{
     width: 0;
