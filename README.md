@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d461d9db-21c1-41b3-920b-ffbe42cc223e)![image](https://github.com/user-attachments/assets/48003ed1-ae28-4a32-a2d6-9355c9a5236b)
+![image](https://github.com/user-attachments/assets/d461d9db-21c1-41b3-920b-ffbe42cc223e)
 
 
 **Descrição do Projeto: THE MANDALORIAN Landing Page**
